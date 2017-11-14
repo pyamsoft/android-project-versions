@@ -1,4 +1,12 @@
 {
-  "CURRENT_VERSION" : 54
+  "CURRENT_VERSION" : 54,
+
+  "response_objects" : [
+    {
+      "min_api" : 19,
+      "version" : 54
+    }
+
+  ]
 }
 
