@@ -1,0 +1,12 @@
+{
+  "CURRENT_VERSION" : 1,
+
+  "response_objects" : [
+    {
+      "min_api" : 22,
+      "version" : 1
+    }
+
+  ]
+}
+
