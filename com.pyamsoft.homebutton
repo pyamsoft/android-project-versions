@@ -5,8 +5,11 @@
     {
       "min_api" : 16,
       "version" : 82
+    },
+    {
+      "min_api" : 19,
+      "version" : 82
     }
-
   ]
 }
 
