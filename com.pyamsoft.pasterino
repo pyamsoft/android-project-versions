@@ -4,7 +4,7 @@
   "response_objects" : [
     {
       "min_api" : 19,
-      "version" : 70
+      "version" : 72
     }
 
   ]
