@@ -4,11 +4,11 @@
   "response_objects" : [
     {
       "min_api" : 16,
-      "version" : 92
+      "version" : 96
     },
     {
       "min_api" : 19,
-      "version" : 92
+      "version" : 96
     }
   ]
 }
