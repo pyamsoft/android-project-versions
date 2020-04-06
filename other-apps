@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "package": "com.pyamsoft.pasterino",
+      "name": "Pasterino",
+      "description": "Paste everywhere - paste anywhere",
+      "icon": "",
+      "url": "market://details?id=com.pyamsoft.pasterino"
+    }
+  ]
+}
