@@ -4,7 +4,7 @@
       "package": "com.pyamsoft.pasterino",
       "name": "Pasterino",
       "description": "Paste everywhere - paste anywhere",
-      "icon": "",
+      "icon": "https://raw.githubusercontent.com/pyamsoft/android-project-versions/master/pasterino.png",
       "url": "market://details?id=com.pyamsoft.pasterino"
     }
   ]
