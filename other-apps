@@ -5,7 +5,8 @@
       "name": "Pasterino",
       "description": "Paste everywhere - paste anywhere",
       "icon": "https://raw.githubusercontent.com/pyamsoft/android-project-versions/master/pasterino.png",
-      "url": "market://details?id=com.pyamsoft.pasterino"
+      "url": "market://details?id=com.pyamsoft.pasterino",
+      "source": "https://github.com/pyamsoft/pasterino"
     }
   ]
 }
