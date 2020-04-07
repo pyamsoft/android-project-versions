@@ -14,7 +14,7 @@
       "description": "Simple software solution for hardware problems",
       "icon": "https://raw.githubusercontent.com/pyamsoft/android-project-versions/master/homebutton.png",
       "url": "market://details?id=com.pyamsoft.homebutton",
-      "source": "https://github.com/pyamsoft/homebutton"
+      "source": "https://github.com/pyamsoft/home-button"
     },
     {
       "package": "com.pyamsoft.zaptorch",
