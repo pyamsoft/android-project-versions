@@ -7,6 +7,30 @@
       "icon": "https://raw.githubusercontent.com/pyamsoft/android-project-versions/master/pasterino.png",
       "url": "market://details?id=com.pyamsoft.pasterino",
       "source": "https://github.com/pyamsoft/pasterino"
+    },
+    {
+      "package": "com.pyamsoft.homebutton",
+      "name": "Home Button",
+      "description": "Simple software solution for hardware problems",
+      "icon": "https://raw.githubusercontent.com/pyamsoft/android-project-versions/master/homebutton.png",
+      "url": "market://details?id=com.pyamsoft.homebutton",
+      "source": "https://github.com/pyamsoft/homebutton"
+    },
+    {
+      "package": "com.pyamsoft.zaptorch",
+      "name": "ZapTorch",
+      "description": "Click twice make light",
+      "icon": "https://raw.githubusercontent.com/pyamsoft/android-project-versions/master/zaptorch.png",
+      "url": "market://details?id=com.pyamsoft.zaptorch",
+      "source": "https://github.com/pyamsoft/zaptorch"
+    },
+    {
+      "package": "com.pyamsoft.wordwiz",
+      "name": "WordWiz",
+      "description": "Easy word counts and letter counts",
+      "icon": "https://raw.githubusercontent.com/pyamsoft/android-project-versions/master/wordwiz.png",
+      "url": "market://details?id=com.pyamsoft.wordwiz",
+      "source": "https://github.com/pyamsoft/wordwiz"
     }
   ]
 }
