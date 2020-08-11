@@ -31,6 +31,14 @@
       "icon": "https://raw.githubusercontent.com/pyamsoft/android-project-versions/master/wordwiz.png",
       "url": "market://details?id=com.pyamsoft.wordwiz",
       "source": "https://github.com/pyamsoft/wordwiz"
+    },
+    {
+      "package": "com.pyamsoft.fridge",
+      "name": "FridgeFriend",
+      "description": "Know your fridge. What you need, what you have, and where you get it from.",
+      "icon": "https://raw.githubusercontent.com/pyamsoft/android-project-versions/master/fridgefriend.png",
+      "url": "market://details?id=com.pyamsoft.fridge",
+      "source": "https://github.com/pyamsoft/fridgefriend"
     }
   ]
 }

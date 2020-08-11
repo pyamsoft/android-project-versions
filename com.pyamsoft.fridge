@@ -1,10 +1,8 @@
 {
-  "CURRENT_VERSION" : 53,
-
   "response_objects" : [
     {
       "min_api" : 23,
-      "version" : 80
+      "version" : 1
     }
 
   ]
